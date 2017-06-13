@@ -10,8 +10,8 @@
   "dependencies": {
   "dotenv": "^4.0.0",
   "pubnub": "^4.4.4",
-  "bonescript": "^0.6.1"
+  "rpi-gpio": "^0.8.1"
   },
-  "author": "Gopal",
-  "license": "ISC"
+  "author": "Madhur",
+  "license": ""
 }
